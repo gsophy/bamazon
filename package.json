@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Homework",
+  "main": "customer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsophy/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsophy/bamazon/issues"
+  },
+  "homepage": "https://github.com/gsophy/bamazon#readme"
+}
